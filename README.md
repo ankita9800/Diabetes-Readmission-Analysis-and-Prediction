@@ -6,5 +6,5 @@ The project begins with exploratory data analysis of the "Diabetes 130-US hospit
 
 After exploring the dataset, the project focuses on feature engineering to select the most relevant features for building the predictive model. Various supervised learning algorithms, including Logistic Regression, Naive Bayes, and Neural Networks, are implemented to train the predictive models. The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1 score, providing a comprehensive assessment of their predictive capabilities.
 
-Tools Used: Jupyter Notebook, Google Colab
+Tools Used: Jupyter Notebook, Google Colab  
 Programming Languages Used: Python
