@@ -1,4 +1,4 @@
-## Diabetes-Readmission-Analysis-and-Prediction
+## Patient-Readmission-for-Diabetes
 
 The goal of the project is to develop a machine-learning model that accurately predicts whether a patient with diabetes will be readmitted to the hospital after their initial discharge. This prediction is crucial for healthcare providers as readmission of diabetic patients can lead to increased costs, higher mortality rates, and reduced quality of life. By developing an accurate predictive model, healthcare providers can proactively identify patients at higher risk of readmission and take appropriate measures to prevent it.
 
